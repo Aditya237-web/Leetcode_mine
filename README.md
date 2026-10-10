@@ -5,13 +5,13 @@ A collection of accepted LeetCode solutions automatically synced by LeetBridge.
 <!-- SOLUTIONS_START -->
 
 <p align="center">
-<a href="#solution-archive"><img src=".leetbridge/progress.svg" alt="12 solved: 3 Easy, 6 Medium, 3 Hard" width="33.333%"></a><a href="https://github.com/Aditya237-web/Leetcode_mine/search?q=language%3AJava&amp;type=code"><img src=".leetbridge/languages.svg" alt="Solution languages" width="33.333%"></a><a href="https://leetcode.com/u/Adityacodes579/"><img src=".leetbridge/difficulty.svg" alt="Difficulty breakdown" width="33.333%"></a>
+<a href="#solution-archive"><img src=".leetbridge/progress.svg" alt="13 solved: 3 Easy, 7 Medium, 3 Hard" width="33.333%"></a><a href="https://github.com/Aditya237-web/Leetcode_mine/search?q=language%3AJava&amp;type=code"><img src=".leetbridge/languages.svg" alt="Solution languages" width="33.333%"></a><a href="https://leetcode.com/u/Adityacodes579/"><img src=".leetbridge/difficulty.svg" alt="Difficulty breakdown" width="33.333%"></a>
 </p>
 
 <!-- LEETBRIDGE_ARCHIVE_CELLS_V3 -->
 <a name="solution-archive"></a>
 <p align="center"><picture>
-<img src=".leetbridge/archive/header.svg?v=3" alt="Solution Archive: 12 accepted problems synced by LeetBridge" width="100%">
+<img src=".leetbridge/archive/header.svg?v=3" alt="Solution Archive: 13 accepted problems synced by LeetBridge" width="100%">
 </picture></p>
 <table align="center" width="100%">
 <tbody>
@@ -26,6 +26,7 @@ A collection of accepted LeetCode solutions automatically synced by LeetBridge.
 <tr><td width="53%"><a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/"><img src=".leetbridge/archive/problems/0921-minimum-add-to-make-parentheses-valid.svg?v=3" alt="0921 · Minimum Add to Make Parentheses Valid" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/medium.svg?v=3" alt="Medium" width="100%"></picture></td><td width="30%"><a href="0921-minimum-add-to-make-parentheses-valid/solution.java"><img src=".leetbridge/archive/languages/java-6eff4c85.svg?v=3" alt="Java" width="100%"></a></td></tr>
 <tr><td width="53%"><a href="https://leetcode.com/problems/camelcase-matching/"><img src=".leetbridge/archive/problems/1023-camelcase-matching.svg?v=3" alt="1023 · Camelcase Matching" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/medium.svg?v=3" alt="Medium" width="100%"></picture></td><td width="30%"><a href="1023-camelcase-matching/solution.java"><img src=".leetbridge/archive/languages/java-6eff4c85.svg?v=3" alt="Java" width="100%"></a></td></tr>
 <tr><td width="53%"><a href="https://leetcode.com/problems/maximum-population-year/"><img src=".leetbridge/archive/problems/1854-maximum-population-year.svg?v=3" alt="1854 · Maximum Population Year" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/easy.svg?v=3" alt="Easy" width="100%"></picture></td><td width="30%"><a href="1854-maximum-population-year/solution.java"><img src=".leetbridge/archive/languages/java-6eff4c85.svg?v=3" alt="Java" width="100%"></a></td></tr>
+<tr><td width="53%"><a href="https://leetcode.com/problems/minimum-sum-of-squared-difference/"><img src=".leetbridge/archive/problems/2333-minimum-sum-of-squared-difference.svg?v=3" alt="2333 · Minimum Sum of Squared Difference" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/medium.svg?v=3" alt="Medium" width="100%"></picture></td><td width="30%"><a href="2333-minimum-sum-of-squared-difference/solution.java"><img src=".leetbridge/archive/languages/java-6eff4c85.svg?v=3" alt="Java" width="100%"></a></td></tr>
 <tr><td width="53%"><a href="https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/"><img src=".leetbridge/archive/problems/4065-rearrange-array-by-removing-distinct-values.svg?v=3" alt="4065 · Rearrange Array by Removing Distinct Values" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/easy.svg?v=3" alt="Easy" width="100%"></picture></td><td width="30%"><a href="4065-rearrange-array-by-removing-distinct-values/solution.java"><img src=".leetbridge/archive/languages/java-6eff4c85.svg?v=3" alt="Java" width="100%"></a></td></tr>
 </tbody>
 </table>
