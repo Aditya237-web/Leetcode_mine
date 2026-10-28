@@ -5,13 +5,13 @@ A collection of accepted LeetCode solutions automatically synced by LeetBridge.
 <!-- SOLUTIONS_START -->
 
 <p align="center">
-<a href="#solution-archive"><img src=".leetbridge/progress.svg" alt="21 solved: 7 Easy, 11 Medium, 3 Hard" width="33.333%"></a><a href="https://github.com/Aditya237-web/Leetcode_mine/search?q=language%3AJava&amp;type=code"><img src=".leetbridge/languages.svg" alt="Solution languages" width="33.333%"></a><a href="https://leetcode.com/u/Adityacodes579/"><img src=".leetbridge/difficulty.svg" alt="Difficulty breakdown" width="33.333%"></a>
+<a href="#solution-archive"><img src=".leetbridge/progress.svg" alt="22 solved: 7 Easy, 12 Medium, 3 Hard" width="33.333%"></a><a href="https://github.com/Aditya237-web/Leetcode_mine/search?q=language%3AJava&amp;type=code"><img src=".leetbridge/languages.svg" alt="Solution languages" width="33.333%"></a><a href="https://leetcode.com/u/Adityacodes579/"><img src=".leetbridge/difficulty.svg" alt="Difficulty breakdown" width="33.333%"></a>
 </p>
 
 <!-- LEETBRIDGE_ARCHIVE_CELLS_V3 -->
 <a name="solution-archive"></a>
 <p align="center"><picture>
-<img src=".leetbridge/archive/header.svg?v=3" alt="Solution Archive: 21 accepted problems synced by LeetBridge" width="100%">
+<img src=".leetbridge/archive/header.svg?v=3" alt="Solution Archive: 22 accepted problems synced by LeetBridge" width="100%">
 </picture></p>
 <table align="center" width="100%">
 <tbody>
@@ -35,6 +35,7 @@ A collection of accepted LeetCode solutions automatically synced by LeetBridge.
 <tr><td width="53%"><a href="https://leetcode.com/problems/maximum-k-to-sort-a-permutation/"><img src=".leetbridge/archive/problems/3644-maximum-k-to-sort-a-permutation.svg?v=3" alt="3644 · Maximum K to Sort a Permutation" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/medium.svg?v=3" alt="Medium" width="100%"></picture></td><td width="30%"><a href="3644-maximum-k-to-sort-a-permutation/solution.java"><img src=".leetbridge/archive/languages/java-6eff4c85.svg?v=3" alt="Java" width="100%"></a></td></tr>
 <tr><td width="53%"><a href="https://leetcode.com/problems/maximum-alternating-sum-of-squares/"><img src=".leetbridge/archive/problems/3727-maximum-alternating-sum-of-squares.svg?v=3" alt="3727 · Maximum Alternating Sum of Squares" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/medium.svg?v=3" alt="Medium" width="100%"></picture></td><td width="30%"><a href="3727-maximum-alternating-sum-of-squares/solution.java"><img src=".leetbridge/archive/languages/java-6eff4c85.svg?v=3" alt="Java" width="100%"></a></td></tr>
 <tr><td width="53%"><a href="https://leetcode.com/problems/minimum-operations-to-sort-a-string/"><img src=".leetbridge/archive/problems/3863-minimum-operations-to-sort-a-string.svg?v=3" alt="3863 · Minimum Operations to Sort a String" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/medium.svg?v=3" alt="Medium" width="100%"></picture></td><td width="30%"><a href="3863-minimum-operations-to-sort-a-string/solution.java"><img src=".leetbridge/archive/languages/java-6eff4c85.svg?v=3" alt="Java" width="100%"></a></td></tr>
+<tr><td width="53%"><a href="https://leetcode.com/problems/minimum-xor-path-in-a-grid/"><img src=".leetbridge/archive/problems/3882-minimum-xor-path-in-a-grid.svg?v=3" alt="3882 · Minimum XOR Path in a Grid" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/medium.svg?v=3" alt="Medium" width="100%"></picture></td><td width="30%"><a href="3882-minimum-xor-path-in-a-grid/solution.java"><img src=".leetbridge/archive/languages/java-6eff4c85.svg?v=3" alt="Java" width="100%"></a></td></tr>
 <tr><td width="53%"><a href="https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/"><img src=".leetbridge/archive/problems/4065-rearrange-array-by-removing-distinct-values.svg?v=3" alt="4065 · Rearrange Array by Removing Distinct Values" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/easy.svg?v=3" alt="Easy" width="100%"></picture></td><td width="30%"><a href="4065-rearrange-array-by-removing-distinct-values/solution.java"><img src=".leetbridge/archive/languages/java-6eff4c85.svg?v=3" alt="Java" width="100%"></a></td></tr>
 </tbody>
 </table>
